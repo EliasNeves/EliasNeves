@@ -1,0 +1,65 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: rgb(2, 0, 36);
+    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 33%, rgba(0, 212, 255, 1) 100%);
+}
+
+.footer-up {
+    width: 100vw;
+    height: 25vh;
+    background-color: #090979;
+    display: flex;
+    color: #ffffff;
+}
+
+h1 {
+    font-size: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 450px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+a {
+    background-color: #00d4ff;
+    width: 80px;
+    height: 40px;
+    border-radius: 25px;
+    color: #ffffff;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 18px;
+    margin-top: 47px;
+}
+
+ul {
+    display: flex;
+    align-items: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 12px;
+    margin: 30px 20px;
+}
+.Wh {
+    background-color: #00d4ff;
+    width: 250px;
+    height: 50px;
+}
+.Em {
+    background-color: #00d4ff;
+    width: 250px;
+    height: 50px;
+}
+.In {
+    background-color: #00d4ff;
+    width: 250px;
+    height: 50px;
+}
